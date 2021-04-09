@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<instituto>
+<docente id="1">
+<nombre>Brayan Chamico</nombre>
+<username>brayan</username>
+<password>3456</password>
+</docente>
+<docente id="2">
+<nombre>Byron Cuenca</nombre>
+<username>byronc</username>
+<password>433543</password>
+</docente>
+</instituto>
